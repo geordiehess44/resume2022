@@ -1,29 +1,61 @@
 - layout: left
   company: Groupon
   link: groupon.com
-  job_title: Senior Engineer
+  job_title: Engineering Manager
   dates: October 2016 - Present
   quote: >
-   Say something smart here
+   Say something smart here??
   description: | # this will include new lines to allow paragraphs
-    Blah blah blah
+    Managed and contributed to several enterprise level projects and micro-services including, but not limited to: 
+
+    Decommisioning and migration of legacy Livingsocial.com platform
+
+    Maintaining and adding feature functionality and inventory to the new Livingsocial.com on the Groupon platform.
+
+    Development and maintenance of the Groupon Merchant Center for card-linked-offer specific merchants.
+
+    Development and maintenance of Groupon's card-linked-offer and voucher distribution/partner platform.
+
 
 - layout: left
-  company: Livingsocial
+  company: Livingsocial (Washington D.C.)
   link: livingsocial.com
   job_title: Senior Manager, Engineering
   dates: April 2011 - October 2016
   quote: >
-   Say something smart here
+   Say something here?
   description: | # this will include new lines to allow paragraphs
-    Blah blah blah
+    Managed both the Salesforce.com Engineering team as well as the
 
 - layout: left
-  company: Sprint-Nextel
+  company: Sprint-Nextel (Reston, VA)
   link: sprint.com
   job_title: Senior Salesforce Developer
   dates: July 2003 - April 2011
   quote: >
-   Say something smart here
+   
   description: | # this will include new lines to allow paragraphs
-    Blah blah blah
+    Led the development of many applications used across the Sprint Nextel organization to address the following business needs
+    
+    Sales Process Improvement
+
+    Developed applications to create and streamline key processes for 3,000 Sprint Nextel sales reps, including
+    Order Entry Application – Reduced order entry time by 50%; currently handles about 1000 orders daily; developed and implemented in under two weeks.
+    Customer Issue Resolution Application – Has driven resolution of over 375,000 customer issues to date; saves each of Sprint’s wireless Sales representatives an average of seven hours per week.
+    Account Team Assignment Application – Replaced time-intensive, manual process run by Sales Operations with streamlined bulk processing application directly controlled by Sales managers. 
+    Account Creation Application – Implemented controls for the creation and transfer of accounts to eliminate duplicate account entries and improve account data integrity.
+    Mass Update Application – Created one-stop-shop for Sales users to update lead, opportunity and upgrade order records en masse, radically reducing time required to manage update process; generated overwhelmingly positive Sales user feedback.
+
+- layout: left
+  company: Worldcom (Mclean, VA)
+  link:
+  job_title: Implementation team coordinator/manager, Government Markets Service Deployment
+  dates: August 1999 - April 2003
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    Led team of eight implementation coordinators in successful transition of DOD’s entire network of Dedicated Transmission Services from existing AT&T FTS2000 network to newly provisioned WorldCom FTS2001 network. 
+
+    Re-wrote process outline to significantly reduce lead time for the transition of services; improved system was subsequently implemented across entire Government Markets organization.
+
+    Hired, trained, and supervised all team members. 
