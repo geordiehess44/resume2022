@@ -8,13 +8,13 @@
   description: | # this will include new lines to allow paragraphs
     Managed and contributed to several enterprise level projects and micro-services including, but not limited to: 
 
-    Decommisioning and migration of legacy Livingsocial.com platform
+    <ul><li>Decommisioning and migration of legacy Livingsocial.com platform</li>
 
-    Maintaining and adding feature functionality and inventory to the new Livingsocial.com on the Groupon platform.
+    <li>Maintaining and adding feature functionality and inventory to the new Livingsocial.com on the Groupon platform.</li>
 
-    Development and maintenance of the Groupon Merchant Center for card-linked-offer specific merchants.
+    <li>Development and maintenance of the Groupon Merchant Center for card-linked-offer specific merchants.</li>
 
-    Development and maintenance of Groupon's card-linked-offer and voucher distribution/partner platform.
+    <li>Development and maintenance of Groupon's card-linked-offer and voucher distribution/partner platform.</li></ul>
 
 
 - layout: left
@@ -25,7 +25,15 @@
   quote: >
    Say something here?
   description: | # this will include new lines to allow paragraphs
-    Managed both the Salesforce.com Engineering team as well as the
+    <ul><li>Managed multiple engineering teams w/ as many as 15 developers total while implemnting standards and processes that worked to greatly improve team productivity and morale.</li>
+
+    <li>Led the development and configuration aspects of the company's launch of Salesforce.com in 18 countries serving 4k plus users across all business segments.</li>
+
+    <li>Developed, maintained and managed a prospecting and deal distribution application utilized by inside as well as outside sales teams.</li>
+
+    <li>Lead developer on a customer-facing deal creation web application used by sales reps as part of the sales process to Livingsocial merchants.</li></ul>
+
+
 
 - layout: left
   company: Sprint-Nextel (Reston, VA)
@@ -35,16 +43,11 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    Led the development of many applications used across the Sprint Nextel organization to address the following business needs
-    
-    Sales Process Improvement
+    <ul><li>Sole developer responsible for the rollout of both Sprint and Nextel's rollout of Salesforce.com ultimately leveraged by as many as 21k users.</li>
 
-    Developed applications to create and streamline key processes for 3,000 Sprint Nextel sales reps, including
-    Order Entry Application – Reduced order entry time by 50%; currently handles about 1000 orders daily; developed and implemented in under two weeks.
-    Customer Issue Resolution Application – Has driven resolution of over 375,000 customer issues to date; saves each of Sprint’s wireless Sales representatives an average of seven hours per week.
-    Account Team Assignment Application – Replaced time-intensive, manual process run by Sales Operations with streamlined bulk processing application directly controlled by Sales managers. 
-    Account Creation Application – Implemented controls for the creation and transfer of accounts to eliminate duplicate account entries and improve account data integrity.
-    Mass Update Application – Created one-stop-shop for Sales users to update lead, opportunity and upgrade order records en masse, radically reducing time required to manage update process; generated overwhelmingly positive Sales user feedback.
+    <li>Developed numerous applications that automated previously manual sales processes.</li>
+
+    <li>Mentored and supported the career development
 
 - layout: left
   company: Worldcom (Mclean, VA)
@@ -54,8 +57,8 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    Led team of eight implementation coordinators in successful transition of DOD’s entire network of Dedicated Transmission Services from existing AT&T FTS2000 network to newly provisioned WorldCom FTS2001 network. 
+    <ul><li>Led team of eight implementation coordinators in successful transition of DOD’s entire network of Dedicated Transmission Services from existing AT&T FTS2000 network to newly provisioned WorldCom FTS2001 network.</li> 
 
-    Re-wrote process outline to significantly reduce lead time for the transition of services; improved system was subsequently implemented across entire Government Markets organization.
+    <li>Re-wrote process outline to significantly reduce lead time for the transition of services; improved system was subsequently implemented across entire Government Markets organization.</li>
 
-    Hired, trained, and supervised all team members. 
+    <li>Hired, trained, and supervised all team members.</li></ul>
