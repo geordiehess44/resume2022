@@ -25,7 +25,7 @@ linkedin_username: george-hess-1461206
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Driven, productive, and effective <mark>engineering manager</mark> with 20 years of experience in the technology sector, 
-  ranging from start-ups to enterprise level organizations.  I have been Managing and developing applications 
+  ranging from start-ups to enterprise level organizations.  I have been managing and developing applications 
   and services in the telecome and daily deals industries, serving across all business functions including, but
   not limited to sales, sales operations, customer service, finance, marketing, and HR.
 
@@ -39,12 +39,14 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: Professional Skills
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in software engineering and leadership some of my other interests and hobbies are:
-   - Golf
-   - Family
-   - Craft Beers
+        <ul>  <li><b>Salesforce.com Technologies</b>: Apex Classes, Test Classes, SOQL, SOSL, Visual Force, Lightning pages (Pages, Component & Controllers), ETL, Triggers, Web services, Sandbox development and Testing
+        <li><b>Languages:</b>Java, Ruby, Apex</li>
+        <li><b>Web Technologies:</b> XML, HTML, CSS, javascript</li>
+        <li><b>Version Control Tools:</b>Github</li>
+        <li><b>Web Services:</b> SOAP, WSDL, JSON, REST</li>
+        <li><b>Databases:</b> MySQL, Postgres</li>
 
 # Footer
 footer_show_references: true
