@@ -4,14 +4,14 @@
   job_title: Engineering Manager
   dates: October 2016 - Present
   quote: >
-   <font size="+1">Manage and contribute to enterprise-level projects and micro-services including, but not limited to:</font>
+   <font size="+1">Manage and contribute to enterprise-level projects and microservices including, but not limited to:</font>
   description: | # this will include new lines to allow paragraphs
 
     <ul><li>Development and maintenance of Groupon's card-linked-offer and voucher distribution/partner platform.</li>
 
-    <li>Development and maintenance of the Groupon Merchant Center for card-linked-offer specific merchants.</li>
+    <li>Development and maintenance of the Groupon Merchant Center specifically for card-linked-offer merchants.</li>
 
-    <li>Maintainance and addition of feature functionality and inventory to Livingsocial.com on the Groupon platform.</li>
+    <li>Maintenance and addition of feature functionality and inventory to Livingsocial.com on the Groupon platform.</li>
 
     <li>Decommissioning and migration of legacy Livingsocial.com platform</li></ul>
 
@@ -25,7 +25,7 @@
   description: | # this will include new lines to allow paragraphs
     <ul><li>Managed multiple engineering teams with as many as 15 developers while implementing standards and processes that worked to greatly improve team productivity and morale.</li>
 
-    <li>Led the development and configuration aspects of the company's launch of Salesforce.com in 18 countries serving 4,000 plus users across all business segments.</li>
+    <li>Led the development and configuration aspects of the company's launch of Salesforce.com in 18 countries serving 4,000-plus users across all business segments.</li>
 
     <li>Developed, maintained and managed a prospecting and deal distribution application utilized by inside as well as outside sales teams.</li>
 
@@ -55,8 +55,8 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    <ul><li>Led a team of eight implementation coordinators in successful transition of DOD’s entire network of Dedicated Transmission Services from existing AT&T FTS2000 network to newly provisioned WorldCom FTS2001 network.</li> 
+    <ul><li>Led a team of eight implementation coordinators in successful transition of United States Department of Defense's entire network of Dedicated Transmission Services from existing AT&T FTS2000 network to newly provisioned WorldCom FTS2001 network.</li> 
 
-    <li>Re-wrote the process outline to significantly reduce lead time for the transition of services; improved system was subsequently implemented across entire Government Markets organization.</li>
+    <li>Re-wrote procedures to significantly reduce lead time for the transition of services; the improved system was subsequently implemented across the entire Government Markets organization.</li>
 
     <li>Hired, trained, and supervised all team members.</li></ul>
