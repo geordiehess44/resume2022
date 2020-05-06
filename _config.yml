@@ -26,8 +26,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Driven, productive, and effective <mark>engineering manager</mark> with 20 years of experience in the technology sector, 
   ranging from start-ups to enterprise level organizations.  I have been managing and developing applications 
-  and services in the telecome and daily deals industries, serving across all business functions including, but
-  not limited to sales, sales operations, customer service, finance, marketing, and HR.
+  and services in the telecom and daily-deals industries, serving across all business functions including, but
+  not limited to sales, sales operations, customer service, finance, marketing, and human resources.
 
 # Projects Section
 # projects_title: Projects
@@ -43,10 +43,11 @@ more_title: Professional Skills
 more_content: | # this will include new lines to allow paragraphs
         <ul>  <li><b>Salesforce.com Technologies</b>: Apex Classes, Test Classes, SOQL, SOSL, Visual Force, Lightning pages (Pages, Component & Controllers), ETL, Triggers, Web services, Sandbox development and Testing
         <li><b>Languages:</b> Java, Ruby, Apex</li>
-        <li><b>Web Technologies:</b> XML, HTML, CSS, javascript</li>
-        <li><b>Version Control Tools:</b> Github</li>
+        <li><b>Web Technologies:</b> XML, HTML, CSS, JavaScript</li>
+        <li><b>Version Control Tools:</b> GitHub</li>
         <li><b>Web Services:</b> SOAP, WSDL, JSON, REST</li>
-        <li><b>Databases:</b> MySQL, Postgres</li>
+        <li><b>Databases:</b> MySQL, PostgreSQL</li>
+        <li><b>Speaker:</b> Numerous Salesforce.com Dreamforce events</li>
 
 # Footer
 footer_show_references: true
