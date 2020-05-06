@@ -47,7 +47,7 @@ more_content: | # this will include new lines to allow paragraphs
         <li><b>Version Control Tools:</b> GitHub</li>
         <li><b>Web Services:</b> SOAP, WSDL, JSON, REST</li>
         <li><b>Databases:</b> MySQL, PostgreSQL</li>
-        <li><b>Public Speaking:</b> Presented at numerous Salesforce.com Dreamforce events</li>
+        <li><b>Public Speaking:</b> Presented at numerous Salesforce.com <a href="https://www.salesforce.com/dreamforce/" target="_blank">Dreamforce</a> events</li>
 
 # Footer
 footer_show_references: true
