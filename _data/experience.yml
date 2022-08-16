@@ -7,7 +7,9 @@
    <font size="+1">Managing and contributing to enterprise-level projects and microservices including, but not limited to:</font>
   description: | # this will include new lines to allow paragraphs
 
-    <ul><li>Development and maintenance of Groupon's card-linked-offer and voucher distribution/partner platform.</li>
+    <ul><li>Managed a team of software engineers and lead the creation, development, maintenance, and integration of a brand new service responsible for creating, storing, and communicating merchant contractual terms for each voucher purchase made on the platform.</li>
+
+    <li>Development and maintenance of Groupon's card-linked-offer and voucher distribution/partner platform.</li>
 
     <li>Development and maintenance of the Groupon Merchant Center specifically for card-linked-offer merchants.</li>
 
